@@ -1,9 +1,9 @@
 {
-  "name": "com.sample.samplepackage",
-  "displayName": "SamplePackage",
+  "name": "com.ilm.sltutil",
+  "displayName": "SltUtil",
   "version": "0.1.0",
-  "unity": "2020.1",
-  "description": "description.",
+  "unity": "2021.1",
+  "description": "Useful library for unit ; name:SltUtil",
   "author": {
     "name": "SamplePackage"
   }
