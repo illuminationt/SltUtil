@@ -77,7 +77,8 @@ crashlytics-build.properties
 Library/
 Logs/
 obj/
-Packages/
+#PackageManagerで配布するプロジェクトを作るにはPackagesフォルダ必須
+# Packages/ 
 ProjectSettings/
 UserSettings/
 Plugins/
